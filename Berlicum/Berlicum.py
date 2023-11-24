@@ -1,3 +1,5 @@
+#MANGE MON ZOB
+
 # Liste des librairies importées
 import smartcard.System as scardsys
 import smartcard.util as scardutil
